@@ -24,11 +24,13 @@ The maze is represented as a 2D grid:
 - **'0'** denotes obstacles
 - **'S'** (Start) and **'E'** (End) are special markers.
 
-Before solving:
-![Before Solving Maze](before_solving_maze.png)
+##Before solving:
 
-After solving:
-![After Solving Maze](after_solving_maze.png)
+-![Before Solving Maze](before_solving_maze.png)
+
+##After solving:
+
+-![After Solving Maze](after_solving_maze.png)
 
 ## 📊 Results & Conclusion
 The backtracking algorithm efficiently identifies viable solutions by exploring all potential paths. It demonstrates practical applications in fields like **robotics** and **AI**, where pathfinding is essential. The visualization enhances comprehension of the maze-solving process.
